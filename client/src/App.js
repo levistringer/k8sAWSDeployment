@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fib Calculator
+            LEVI'S FIB CALC IN KUBE AND GPC!LET'S GOOO
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
